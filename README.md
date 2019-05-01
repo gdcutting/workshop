@@ -10,4 +10,4 @@ I have spent the last couple of years compiling a library of great resources. Ma
 * [Deep Learning](https://www.deeplearningbook.org/)
 * [Mastering Machine Learning with scikit-learn](https://github.com/PacktPublishing/Mastering-Machine-Learning-with-scikit-learn-Second-Edition)
 
-I'm working through these and other resources to get as many tools in my toolbox as I can. I also have a lot of code from class and other projects that I'd like to collect here. 
+I'm working through these and other resources to get as many tools in my toolbox as I can. I also have a lot of code from class and other projects that I'd like to collect here. Some of the code is original, some makes use of code provided by others and extends it for experimental and learning purposes, and some is reproduced from tutorials and other resources which I am collecting in one place here in order to make it easy to refer to for future projects. 
